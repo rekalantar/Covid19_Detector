@@ -5,4 +5,4 @@ Loss curve
 ![alt text](https://raw.githubusercontent.com/rekalantar/covid19_detector/master/loss_curve.png)
 
 Confusion Matrix (accuracy 89%, sensitiviy 79% and specificity 100%)
-![alt text](https://raw.githubusercontent.com/rekalantar/covid19_detector/master/loss_curve.png)
+![alt text](https://raw.githubusercontent.com/rekalantar/covid19_detector/master/confusion_matrix.png)
