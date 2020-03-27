@@ -1,6 +1,10 @@
 # covid19_detector
 Using Deep Learning to detect Covid-19 from X-Ray/CT scans of patients. The code was written on Google Colab, so everyone can use the free GPU resources available online to improve the model.
 
+Example Covid-19 and healthy patient chest X-Rays used for training 
+![alt text](https://raw.githubusercontent.com/rekalantar/covid19_detector/master/covid_vs_healthy_training.png)
+
+
 Loss curve 
 ![alt text](https://raw.githubusercontent.com/rekalantar/covid19_detector/master/loss_curve.png)
 
